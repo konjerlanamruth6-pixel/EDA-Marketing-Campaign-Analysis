@@ -28,7 +28,7 @@ The objective of this task was to perform **Exploratory Data Analysis (EDA)** on
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google colab
 
 ---
 
